@@ -1,5 +1,8 @@
 # Alice
-I want to make a game, so I'm making it
+I want to make a game, so I'm making it.
+
+## Goal
+Create a portfolio of games and challenge the game industry.
 
 ## Website
-[웹 접속하기](https://codingpythonman.github.io/Alice/)
+[Website - Alice](https://codingpythonman.github.io/Alice/)
