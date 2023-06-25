@@ -1,5 +1,5 @@
-title: Long Haul
-description: Long Form Jekyll theme built with SASS
+title: 로보의 게임 세상
+description: 게임 회사를 다니는 개발자입니다.
 
 url: https://long-haul.netlify.app
 paginate_path: "blog/page:num/"
