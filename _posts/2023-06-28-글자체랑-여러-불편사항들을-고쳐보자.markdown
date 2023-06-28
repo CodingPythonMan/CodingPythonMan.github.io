@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "글자체랑 여러 불편사항들을 고쳐보자."
+date:   2023-06-28
+---
+
+[글꼴 수정하기](https://evenharder.github.io/blog/jekyll-change-fonts/) 블로그를 참조했다.
